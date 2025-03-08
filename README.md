@@ -15,5 +15,5 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"><img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" style="max-width: 100%;"></a>
 </p>
 
-<p align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ourhouchmohamed97&show_icons=true&locale=en&layout=compact" alt="ourhouchmohamed97" style="width: 600px" /></p>
+<p align="center" dir="auto"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ourhouchmohamed97&show_icons=true&locale=en&layout=compact" alt="ourhouchmohamed97" style="width: 600px; height: 200px" /></p>
 
