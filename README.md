@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed ourhouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed ourhouch" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/mohamed ourhouch](https://www.linkedin.com/in/mohamed-ourhouch-616799293)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed ourhouch" height="30" width="40" /></a>
 </p>
 <p align="right" dir="auto"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ourhouchmohamed97&show_icons=true&locale=en&layout=compact" alt="card" style="width: 400px; height: 200px" /></p>
 
