@@ -17,5 +17,5 @@
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"><img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" style="max-width: 100%;"></a>
 </p>
 
-## 🏆 GitHub Trophies
-![]([https://github-profile-trophy.vercel.app/?username=ourhouchmohamed97&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=ourhouchmohamed97))
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=ourhouchmohamed97&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
