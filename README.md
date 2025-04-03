@@ -44,5 +44,5 @@
 <h3 align="left">GitHub Trophies 🥇🏆</h3>
 <p align="left">
   
-  ![](https://github-trophies.vercel.app/?username=ourhouchmohamed97&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=ourhouchmohamed97&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </p>
