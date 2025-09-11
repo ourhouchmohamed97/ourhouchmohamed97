@@ -25,6 +25,8 @@
     <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /> </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
 
+<!--
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ourhouchmohamed97&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ourhouchmohamed97&theme=neon&hide_border=false)<br/>
@@ -32,4 +34,4 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ourhouchmohamed97&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-
+-->
