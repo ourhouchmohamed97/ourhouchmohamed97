@@ -3,6 +3,9 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e66c290c2bb9e84106fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966"> -->
 <h3>student at <a href="https://42.fr/en/homepage/">42</a>. login: mourhouc</h3>
 
+<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e66c290c2bb9e84106fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966"> -->
+<h3>student at <a href="https://42.fr/en/homepage/">42</a>. login: mourhouc</h3>
+
 <h3 align="left">Connect with me 💬🖋️</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/mohamed-ourhouch-616799293" target="blank">
