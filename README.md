@@ -36,10 +36,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ourhouchmohamed97&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 -->
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ourhouchmohamed97&theme=dark&hide_border=false" width="450"><br>
-  <b>Full-Stack Developer | JavaScript | Next.js | Flutter | Firebase</b>
-</p>
 
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://github.com/ourhouchmohamed97)
 
