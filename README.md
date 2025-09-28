@@ -51,7 +51,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ourhouchmohamed97&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## GitHub Trophies 🏆:
-![](https://github-profile-trophy.vercel.app/?username=ourhouchmohamed97&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ourhouchmohamed97&theme=juicyfresh)
 
 ## Connect with me 💬🖋️:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mohamed00000000001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ourhouch_mohamed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ourhouch-616799293)
