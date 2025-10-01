@@ -38,7 +38,8 @@
 -->
 
 <!-- [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://github.com/ourhouchmohamed97) -->
-[![ourhouch.dev](https://i.postimg.cc/VLLVxvmk/Screen-Shot-2025-10-01-at-5-13-28-PM.png)](https://ourhouch.vercel.app/)
+[![ourhouch.dev](https://i.postimg.cc/hPsfGyFS/Screen-Shot-2025-10-01-at-5-16-19-PM.png)](https://ourhouch.vercel.app/)
+<img src="https://github.com/mouad-dadda/mouad-dadda/blob/main/images/line.gif" width="100%" />
 
 <h1 align="center">Hi 👋, I'm mohamed ourhouch </h1>
 
