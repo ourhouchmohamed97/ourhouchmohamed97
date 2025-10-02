@@ -39,7 +39,7 @@
 
 <!-- [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://github.com/ourhouchmohamed97) -->
 [![ourhouch.dev](https://i.imgur.com/K9MHBei.jpg)](https://ourhouch.vercel.app/)
-<img src="https://github.com/mouad-dadda/mouad-dadda/blob/main/images/line.gif" width="100%" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0363.gif" width="100%" />
 
 <h3>student at <a href="https://42.fr/en/homepage/">42</a>. login: mourhouc</h3>
 
