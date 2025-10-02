@@ -41,11 +41,6 @@
 [![ourhouch.dev](https://i.postimg.cc/hPsfGyFS/Screen-Shot-2025-10-01-at-5-16-19-PM.png)](https://ourhouch.vercel.app/)
 <img src="https://github.com/mouad-dadda/mouad-dadda/blob/main/images/line.gif" width="100%" />
 
-<div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/ourhouchmohamed97"/>  
-    </div>
-
 <h1 align="center">Hi 👋, I'm mohamed ourhouch </h1>
 
 <h3>student at <a href="https://42.fr/en/homepage/">42</a>. login: mourhouc</h3>
