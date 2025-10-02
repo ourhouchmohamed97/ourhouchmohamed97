@@ -41,14 +41,6 @@
 [![ourhouch.dev](https://i.imgur.com/K9MHBei.jpg)](https://ourhouch.vercel.app/)
 <img src="https://github.com/mouad-dadda/mouad-dadda/blob/main/images/line.gif" width="100%" />
 
-<div style="line-height: 0;">
-  <a href="https://ourhouch.vercel.app/">
-    <img src="https://i.imgur.com/K9MHBei.jpg" style="display:block; margin:0; padding:0;" />
-  </a>
-  <img src="https://github.com/mouad-dadda/mouad-dadda/blob/main/images/line.gif" style="display:block; margin:0; padding:0;" width="100%" />
-</div>
-
-
 <h3>student at <a href="https://42.fr/en/homepage/">42</a>. login: mourhouc</h3>
 
 # Languages and Tools 👨‍💻💻:
