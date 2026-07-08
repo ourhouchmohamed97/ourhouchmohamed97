@@ -49,6 +49,7 @@
 # GitHub Stats 📊:
 ![](https://nirzak-streak-stats.vercel.app/?user=ourhouchmohamed97&theme=dark&hide_border=false)&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ourhouchmohamed97&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ourhouchmohamed97?cardType=level&theme=gruvbox&fontFamily=Alata&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## GitHub Trophies 🏆:
 ![](https://github-profile-trophy.vercel.app/?username=ourhouchmohamed97&theme=juicyfresh)
